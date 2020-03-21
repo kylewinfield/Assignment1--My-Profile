@@ -26,6 +26,8 @@ I also like to spend my time playing in competitive Esports teams.
         <p>
           <a href="https://www.seek.com.au/job/39454384?type=standard#searchRequestToken=212e2e81-e954-41da-aa1b-f2ae98c83ed3">
           <img src="JobAd.png" alt="Job Ad" width="460" height ="790">
+            <br>
+            (click image for link to ad)
           </a>
           <br>
            This position would suit me a lot, it is a software development job that requires very efficient programming for the firm that needs it. Being a trading firm, their programs would need to be very fast and able to handle complexity as they make millions of trading decisions per day.
