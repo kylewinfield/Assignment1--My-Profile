@@ -98,7 +98,7 @@ All in all, this service will grow events/conventions from the live streams qual
 
 
         <h2> References:</h2>
-        <ul>
+    <ol>
         <li>Eventbrite US Blog. 2020. 5 Myths About Livestreaming An Event — Busted.
         <br>
         [online] Available at:
@@ -119,6 +119,6 @@ All in all, this service will grow events/conventions from the live streams qual
         <br>
         [online] Available at: <a href = "http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml"> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</a> [Accessed 21 March 2020].
       </li>
-        </ul>
+    </ol>
 </body>
 </html>
