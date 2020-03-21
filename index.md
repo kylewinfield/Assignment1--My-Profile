@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <h1>My Profile</h1>
@@ -16,18 +15,18 @@ I also like to spend my time playing in competitive Esports teams.
 <body>
         <h2> Interest in IT</h2>
           <p> My interest in IT started at a young age from spending a lot of time on the computer, primarily to play video games but because of that I learnt how to use the computer and naturally had to troubleshoot issues I had in order to play my video games.
-Later on, I developed an interest in computer networking from a subject I studied in high school and it sparked some interest for me to pursue more knowledge in the IT industry.
-
-I chose to come to RMIT because I was interested in online study, and from the online study options, it was in my opinion the most reputable university that was offering an IT degree.
-
-I expect to learn primarily how to code but also touch on other IT industry knowledge for future employability.
+          <br>
+          Later on, I developed an interest in computer networking from a subject I studied in high school and it sparked some interest for me to pursue more knowledge in the IT industry.
+          <br>
+          I chose to come to RMIT because I was interested in online study, and from the online study options, it was in my opinion the most reputable university that was offering an IT degree.
+          I expect to learn primarily how to code but also touch on other IT industry knowledge for future employability.
         </p>
         <h2> My Ideal Job</h2>
         <p>
           <a href="https://www.seek.com.au/job/39454384?type=standard#searchRequestToken=212e2e81-e954-41da-aa1b-f2ae98c83ed3">
           <img src="JobAd.png" alt="Job Ad" width="460" height ="790">
           </a>
-
+          <br>
            This position would suit me a lot, it is a software development job that requires very efficient programming for the firm that needs it. Being a trading firm, their programs would need to be very fast and able to handle complexity as they make millions of trading decisions per day.
            I am very interested in working with this type of high-pressure situation of developing software that needs to be finely combed for any problems. The sensitive nature of changes in the programs appeals to me also.
 
@@ -40,12 +39,17 @@ Afterwards, I plan to get an entry level job doing any kind of software developm
       <h2>Personality:</h2>
         <h3>Myers-Briggs Test:</h3>
           <img src="MyersBriggs.png" alt="Myers-Briggs" width="389" height="788">
+          <br>
         <h3>Learning Style Test:</h3>
           <img src="LearningStylesTest.png" alt="Learning Styles Test" width="224" height="220">
+          <br>
         <h3>Big Five Personality Test:</h3>
-          <img src="Big5personality.png" alt="Big Five Personality" width="471" height="267">
+          <img src="Big5personality.png" alt="Big Five Personality" width="471" height="267"
+          <br>
+
         <p> The results of these test aren’t very surprising to me, I feel as though they describe my personality fairly accurately and I accept that.
             These results indicate that I could be difficult to get to participate in a team, as I am fairly introverted and not very self-disciplined; and as such, I will need to make an effort to ensure I am doing my part in a team in terms of participation and completing work that needs doing when my team needs it.
+            <br>
         </p>
 
       <h2>Project Idea:</h2>
@@ -82,7 +86,7 @@ All in all, this service will grow events/conventions from the live streams qual
 
 
 
-        <h3> References:</h3>
+        <h2> References:</h2>
         <p>
           5 MYTHS ABOUT LIVESTREAMING AN EVENT — BUSTED
 
