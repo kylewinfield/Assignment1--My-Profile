@@ -107,17 +107,21 @@ All in all, this service will grow events/conventions from the live streams qual
       <li>
         16personalities.com. 2020. Free Personality Test, Type Descriptions, Relationship And Career Advice | 16Personalities.
         <br>
-        [online] Available at: <a href = "https://www.16personalities.com/" https://www.16personalities.com/> </a> [Accessed 21 March 2020].
+        [online] Available at:
+        <a href ="https://www.16personalities.com/" https://www.16personalities.com/> </a> [Accessed 21 March 2020].
       </li>
       <li>
         Truity. 2020. The Big Five Personality Test.
         <br>
-        [online] Available at: <a href ="https://www.truity.com/test/big-five-personality-test"> https://www.truity.com/test/big-five-personality-test> [Accessed 21 March 2020].
+        [online] Available at:
+        <a href ="https://www.truity.com/test/big-five-personality-test"> https://www.truity.com/test/big-five-personality-test> [Accessed 21 March 2020].
+        </a>
       </li>
       <li>
         Educationplanner.org. 2020. What's Your Learning Style? 20 Questions.
         <br>
-        [online] Available at: <a href = "http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml"> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</a> [Accessed 21 March 2020].
+        [online] Available at:
+        <a href ="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml"> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</a> [Accessed 21 March 2020].
       </li>
     </ol>
 </body>
