@@ -26,9 +26,9 @@ I also like to spend my time playing in competitive Esports teams.
         <p>
           <a href="https://www.seek.com.au/job/39454384?type=standard#searchRequestToken=212e2e81-e954-41da-aa1b-f2ae98c83ed3">
           <img src="JobAd.png" alt="Job Ad" width="460" height ="790">
-            <br>
-            (click image for link to ad)
           </a>
+          <br>
+          (click image for link to ad)
           <br>
            This position would suit me a lot, it is a software development job that requires very efficient programming for the firm that needs it. Being a trading firm, their programs would need to be very fast and able to handle complexity as they make millions of trading decisions per day.
            I am very interested in working with this type of high-pressure situation of developing software that needs to be finely combed for any problems. The sensitive nature of changes in the programs appeals to me also.
@@ -103,6 +103,21 @@ All in all, this service will grow events/conventions from the live streams qual
         <br>
         [online] Available at:
         <a href="https://www.eventbrite.com/blog/livestreaming-an-event-myths-busted-ds00/"> https://www.eventbrite.com/blog/livestreaming-an-event-myths-busted-ds00/</a> [Accessed 19 March 2020].
+        <br>
+        <br>
+        16personalities.com. 2020. Free Personality Test, Type Descriptions, Relationship And Career Advice | 16Personalities.
+        <br>
+        [online] Available at: <a href = "https://www.16personalities.com/" https://www.16personalities.com/> </a> [Accessed 21 March 2020].
+        <br>
+        <br>
+        Truity. 2020. The Big Five Personality Test.
+        <br>
+        [online] Available at: <a href ="https://www.truity.com/test/big-five-personality-test"> https://www.truity.com/test/big-five-personality-test> [Accessed 21 March 2020].
+        <br>
+        <br>
+        Educationplanner.org. 2020. What's Your Learning Style? 20 Questions.
+        <br>
+        [online] Available at: <a href = "http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml"> http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</a> [Accessed 21 March 2020].
         </p>
 </body>
 </html>
