@@ -101,7 +101,7 @@ All in all, this service will grow events/conventions from the live streams qual
 
 In-text: (5 Myths About Livestreaming an Event — Busted, 2020)
 
-Your Bibliography: Eventbrite US Blog. 2020. 5 Myths About Livestreaming An Event — Busted. [online] Available at: <https://www.eventbrite.com/blog/livestreaming-an-event-myths-busted-ds00/> [Accessed 19 March 2020].
+Your Bibliography: Eventbrite US Blog. 2020. 5 Myths About Livestreaming An Event — Busted. <br> [online] Available at: <https://www.eventbrite.com/blog/livestreaming-an-event-myths-busted-ds00/> [Accessed 19 March 2020].
           </p>
 </body>
 </html>
