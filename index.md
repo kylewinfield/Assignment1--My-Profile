@@ -44,7 +44,7 @@ Afterwards, I plan to get an entry level job doing any kind of software developm
           <img src="LearningStylesTest.png" alt="Learning Styles Test" width="224" height="220">
           <br>
         <h3>Big Five Personality Test:</h3>
-          <img src="Big5personality.png" alt="Big Five Personality" width="471" height="267"
+          <img src="Big5personality.png" alt="Big Five Personality" width="471" height="267">
           <br>
 
         <p> The results of these test aren’t very surprising to me, I feel as though they describe my personality fairly accurately and I accept that.
